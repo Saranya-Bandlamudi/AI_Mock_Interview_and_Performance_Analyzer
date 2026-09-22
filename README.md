@@ -1,4 +1,4 @@
-# AI Mock Interview & Career Coach
+# AI Mock Interview & Performance Analyzer
 
 A polished, local-first Flask web application for B.Tech CSE students and early-career candidates to practice interviews, receive answer-sensitive AI-style feedback, and follow a personalized preparation plan.
 
